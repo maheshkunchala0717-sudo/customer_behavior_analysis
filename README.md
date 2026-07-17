@@ -47,19 +47,18 @@ GROUP BY
 ORDER BY
 JOIN
 Aggregate Functions
-Window Functions (if applicable)
+Window Functions 
 
-5. Dashboard Creation
-Built an interactive dashboard to visualize important insights.
-Included KPIs, charts, filters, and summary metrics.
-Dashboard
-The dashboard provides a clear view of the key findings through interactive visualizations.
-Typical dashboard components include:
-KPI Cards
-Trend Analysis
-Category-wise Performance
-Top and Bottom Performers
-Interactive Filters
+### 5. Dashboard Creation
+Built an interactive dashboard to visualize important insights, including KPIs, charts, filters, and summary metrics. The dashboard provides a clear view of the key findings through interactive visualizations.
+
+*Typical dashboard components include:*
+* *KPI Cards:* High-level metrics at a glance.
+* *Trend Analysis:* Tracking customer behavior over time.
+* *Category-wise Performance:* Breaking down data by specific segments.
+* *Interactive Filters:* Allowing users to slice data by Top and Bottom Performers.
+*
+
 
 Results
 The project successfully:
@@ -69,35 +68,35 @@ Answered business questions using SQL queries.
 Presented insights using an interactive dashboard.
 Demonstrated an end-to-end data analytics workflow.
 
-Project Structure
+### Project Structure
+text
 Data-Analytics-Project/
-│
 ├── data/
 │   ├── raw_data.csv
 │   └── cleaned_data.csv
-│
 ├── notebooks/
 │   └── data_analysis.ipynb
-│
 ├── sql/
 │   └── queries.sql
-│
 ├── dashboard/
 │   └── dashboard_file.pbix
-│
 ├── images/
 │   └── dashboard.png
-│
 ├── README.md
 └── requirements.txt
-How to Run
-Clone this repository.
 
-Install the required Python libraries:
+### How to Run
 
-pip install -r requirements.txt
-Open the Jupyter Notebook.
-Run the notebook cells to perform data loading, cleaning, and EDA.
+1. *Clone this repository:*
+   bash
+   git clone <your-repo-url>
+   
+2. *Install the required Python libraries:*
+   bash
+   pip install -r requirements.txt
+   
+3. *Open the Jupyter Notebook:* Run the notebook cells to perform data loading, cleaning, and EDA.
+  
 Import the cleaned dataset into PostgreSQL, MySQL, or SQL Server.
 Execute the SQL queries provided in the sql folder.
 Open the dashboard file in Power BI or Tableau to explore the visualizations.
