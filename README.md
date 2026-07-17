@@ -57,7 +57,7 @@ Built an interactive dashboard to visualize important insights, including KPIs, 
 * *Trend Analysis:* Tracking customer behavior over time.
 * *Category-wise Performance:* Breaking down data by specific segments.
 * *Interactive Filters:* Allowing users to slice data by Top and Bottom Performers.
-*
+
 
 
 Results
@@ -68,22 +68,26 @@ Answered business questions using SQL queries.
 Presented insights using an interactive dashboard.
 Demonstrated an end-to-end data analytics workflow.
 
-### Project Structure
-text
-Data-Analytics-Project/
-├── data/
-│   ├── raw_data.csv
-│   └── cleaned_data.csv
-├── notebooks/
-│   └── data_analysis.ipynb
-├── sql/
-│   └── queries.sql
-├── dashboard/
-│   └── dashboard_file.pbix
-├── images/
-│   └── dashboard.png
-├── README.md
-└── requirements.txt
+# Customer Trends Data Analysis
+
+## Project Overview
+Analyze customer purchase trends using Python, SQL, and Power BI.
+
+## Technologies
+- Python
+- SQL
+- Power BI
+- GitHub
+
+## Workflow
+Business Problem → Python → SQL → Power BI → Report → GitHub
+
+## Dashboard
+(Add screenshot here)
+
+## Results
+- Increased insights into customer behavior
+- Identified top-selling products
 
 ### How to Run
 
