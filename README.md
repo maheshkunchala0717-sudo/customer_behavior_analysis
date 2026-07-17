@@ -113,3 +113,9 @@ Database Management
 Data Visualization
 Dashboard Development
 Business Insight Generation
+
+#customer behavior analysis dashboard
+
+## Dashboard Screenshot
+
+![Customer Behavior Dashboard](customer_behavior_dashboard)
