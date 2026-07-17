@@ -118,4 +118,4 @@ Business Insight Generation
 
 ## Dashboard Screenshot
 
-![Customer Behavior Dashboard](customer_behavior_dashboard.png)
+![Customer Behavior Dashboard](Customer_behavior_dashboard.png)
