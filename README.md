@@ -82,9 +82,6 @@ Analyze customer purchase trends using Python, SQL, and Power BI.
 ## Workflow
 Business Problem → Python → SQL → Power BI → Report → GitHub
 
-## Dashboard
-(Add screenshot here)
-
 ## Results
 - Increased insights into customer behavior
 - Identified top-selling products
